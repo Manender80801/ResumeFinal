@@ -39,9 +39,9 @@
 
 
  -----
- 
-***<h2 align="center"><img align="center" src="https://user-images.githubusercontent.com/83487902/117482651-4ac58500-af82-11eb-96c6-edc49f6069f7.png" alt="m s" height="40" width="40" /> Profile</h2>*** 
 
+
+***<h2 align="center"><img align="center" src="https://user-images.githubusercontent.com/83487902/117482651-4ac58500-af82-11eb-96c6-edc49f6069f7.png" alt="m s" height="40" width="40" /> Profile</h2>*** 
 ***I am Manender Singh Studied Bachlors in Commerce at Sri Aurobindo College New Delhi. Design directs our lifestyle more than we realize. Its present in all aspects of our existence, so my ideology of design is for it to be practical in all aspects. It is an innovation that is applicable to everyone and everything, which is why I have come to understand that most solutions present themselves in our environment and awareness is the key to finding them.***
 
 ------
