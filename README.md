@@ -175,9 +175,11 @@ Permanent Address: </b>
 -----
 
 ***<h2 align="center">:green_book:Declaration </h2>*** 
-<details close="close"> 
- 
-## I Manender Singh hereby declare that all the information provided above is correct and updated and no manipulation has been done in the Resume.
+***I Manender Singh hereby declare that all the information provided above is correct and updated and no manipulation has been done in the Resume.***
+
+-------
+
+
   
   
 
