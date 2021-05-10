@@ -6,7 +6,7 @@
 ***<h3 align="center">For Contact Click Below</h3>***
 <p align="center">
 <a href="https://github.com/Manender80801" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83487902/117480097-c7566480-af7e-11eb-9be3-a2d4ea0ed820.png" alt="m s" height="30" width="40" /></a> 
-<a href="https://mail.google.com/mail/u/1/?tab=mm" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83487902/117479823-6cbd0880-af7e-11eb-98ea-ce5dbe98f75b.png" alt="m s" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83487902/117479823-6cbd0880-af7e-11eb-98ea-ce5dbe98f75b.png" alt="m s" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/manender-singh-29768a157/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83487902/117479854-747cad00-af7e-11eb-98ca-3f3437807a08.jpg" alt="m s" height="30" width="40" /></a>
 </p>
 
